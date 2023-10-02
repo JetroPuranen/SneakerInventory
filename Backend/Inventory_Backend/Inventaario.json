@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20559dec-76ab-41f2-9f28-d88de782bbea",
+    "Tuotetunnus": "ND39V",
+    "Merkki": "Nike",
+    "Malli": "Dunk",
+    "Koko": "39",
+    "Vari": "Valkoinen",
+    "lkm": 1
+  },
+  {
+    "id": "d5d348c2-5d81-4dbb-8033-8321c3a94daa",
+    "Tuotetunnus": "AY45M",
+    "Merkki": "Adidas",
+    "Malli": "Yeezy",
+    "Koko": "45",
+    "Vari": "Musta",
+    "lkm": 1
+  },
+  {
+    "id": "c2f98ee3-7ac4-4afd-b824-f134e5ce6190",
+    "Tuotetunnus": "US42P",
+    "Merkki": "Umbro",
+    "Malli": "SuperStar",
+    "Koko": "42",
+    "Vari": "Punainen",
+    "lkm": 1
+  },
+  {
+    "id": "e59d3db3-45f7-4bc1-a5e0-ba846af6698d",
+    "Tuotetunnus": "NA39V",
+    "Merkki": "Nike",
+    "Malli": "Air-Jordan 1",
+    "Koko": "39",
+    "Vari": "Valkoinen",
+    "lkm": 1
+  }
+]
